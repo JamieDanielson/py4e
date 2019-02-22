@@ -1,5 +1,7 @@
 # pythonforeverybody
 
+[Programming for Everybody (Getting Started with Python | Coursera)](https://www.coursera.org/learn/python)
+
 ## WEEK 1
 
 ### Chapter One - Why we Program?
